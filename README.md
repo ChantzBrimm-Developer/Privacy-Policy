@@ -8,4 +8,4 @@ This app does **not collect**, store, or share any personal data.
 
 - Last updated: June 23, 2025
 
-If you have any questions, please contact: chantzbrimm@icloud.com
+If you have any questions, please contact: chantzbrimm06@gmail.com
