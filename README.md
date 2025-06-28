@@ -6,6 +6,6 @@ This app does **not collect**, store, or share any personal data.
 - No analytics tools are used.
 - No third-party services are integrated.
 
-- Last updated: June 23, 2025
+- Last updated: June 28, 2025
 
-If you have any questions, please contact: chantzbrimm06@gmail.com
+If you have any questions, please contact: chantzbrimm@icloud.com
